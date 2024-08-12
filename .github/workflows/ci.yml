@@ -34,3 +34,4 @@ jobs:
         with:
           name: myapp-jar
           path: target/*.jar
+
